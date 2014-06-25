@@ -1,0 +1,7 @@
+https://apore.presidencia.gov.br/svn/projetosweb/Hotfix/PloneHotfix20110720
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/BarraInstitucional/tags/20120507
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/FCKeditor/tags/2.6.6
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/FileSystemStorage/tags/20100803
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/PRTemaSimples/tags/20120510
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/PloneGazette/tags/20081125
+https://apore.presidencia.gov.br/svn/projetosweb/ProdutosPlone/PloneSmoothGallery/tags/20100811
